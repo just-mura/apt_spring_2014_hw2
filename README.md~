@@ -44,7 +44,7 @@ We will be working on simple web project. It is deployed and available on <https
 ## Contributors:
 
  * German Ilyin
-   Muratbek Agabyl
+ * Muratbek Agabyl
 
 ## Git commands you might need
 
